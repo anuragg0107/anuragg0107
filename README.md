@@ -36,7 +36,8 @@
 <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragg0107&show_icons=true&locale=en&layout=compact" alt="anuragg0107" />
+       <img align="center" 
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragg0107&show_icons=true&locale=en&layout=compact" alt="anuragg0107" />
             </p>      
            <br/>
          <p align="center">
